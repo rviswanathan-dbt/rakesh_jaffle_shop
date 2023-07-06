@@ -65,5 +65,5 @@ final as (
         on  customers.customer_id = customer_payments.customer_id
 
 )
-
+/* comment */
 select * from final
