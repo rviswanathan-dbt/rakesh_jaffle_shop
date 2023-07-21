@@ -77,3 +77,5 @@ For more information on dbt:
 - Join the [dbt community](http://community.getdbt.com/).
 --- 
 # dummy comment
+# dummy comment
+# dummy comment
