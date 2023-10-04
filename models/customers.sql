@@ -1,6 +1,6 @@
 with customers as (
 
-    select * from {{ ref('stg_customers') }}
+    select * , foo from {{ ref('stg_customers') }}
 
 ),
 
