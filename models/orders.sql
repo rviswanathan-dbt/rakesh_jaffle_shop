@@ -52,5 +52,4 @@ final as (
         on orders.order_id = order_payments.order_id
 
 )
-/* comment */
 select * from final
