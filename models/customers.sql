@@ -65,5 +65,5 @@ final as (
         on  customers.customer_id = customer_payments.customer_id
 
 )
-
+    /* random comment */
     select * from final limit 10
